@@ -1,7 +1,57 @@
 * {
-    margin: 0;
-    padding: 0;
-    font-family: 'Arapey', serif;
+  margin: 0;
+  padding: 0;
+  font-family: 'Arapey', serif;
 }
 
 /* CSS code here */
+
+.navbar {
+  background: linear-gradient(to right, #0e0d0d, #4d4b4a);
+}
+
+.nav-item {
+  font-size: 18px;
+  padding-left: 10px;
+}
+section.landing {
+  background: linear-gradient(to right, #1a1a15, #4d4b4a);
+  padding-top: 30px;
+}
+.judul1 {
+  padding-bottom: 40%;
+  padding-top: 10px;
+  font-size: 40px;
+}
+.btn {
+  border-radius: 20px;
+}
+.img-fluid {
+  margin-bottom: 60px;
+}
+footer {
+  background: linear-gradient(to right, #0e0d0d, #4d4b4a);
+  padding: 20px;
+  font-size: 18px;
+}
+
+/* ABOUT */
+.pengantar {
+  font-size: 18px;
+  padding-bottom: 40px;
+}
+.about {
+  background-image: url(/GM-FM/img/cover\ about.jpg);
+}
+.judul2 {
+  font-size: 40px;
+}
+
+/* KONTAK */
+.kontak {
+  background-image: url(/GM-FM/img/cover\ kontak.jpg);
+  padding-bottom: 50px;
+}
+.judul3 {
+  font-size: 40px;
+}
