@@ -55,3 +55,15 @@ footer {
 .judul3 {
   font-size: 40px;
 }
+/* LOGIN */
+body {
+  background-color: #f1ecec;
+}
+.login {
+  margin-top: 40px;
+}
+.h4 {
+  width: 270px;
+  margin-left: 425px;
+  font-weight: bold;
+}
